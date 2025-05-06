@@ -1,6 +1,6 @@
 package TallerJava7Metodos;
 
-import java.sql.SQLOutput;
+
 import java.util.Scanner;
 
 import static Java7Funciones.Calculadora.*;
